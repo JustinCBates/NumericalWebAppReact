@@ -1,0 +1,3 @@
+[submodule "numerical_methods_ext_submod"]
+	path = numerical_methods_ext_submod
+	url = https://github.com/JustinCBates/NumericalMethodsJS.git
